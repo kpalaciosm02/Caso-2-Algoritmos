@@ -49,4 +49,6 @@ int main(){
     t2 = clock();
     cout << "Second sorted array with insertion sort algorithm." << endl;
     cout << "Insertion sort of the array took: " << ((double)t2)/CLOCKS_PER_SEC << " seconds to execute." << endl;
+
+    displayArray(second_array,second_n);
 }
