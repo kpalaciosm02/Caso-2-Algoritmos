@@ -1,5 +1,7 @@
 # Caso-2-Algoritmos
 
+Para correr los ejemplos hay que hacer g++ nombreArchivo y posteriormente llamar a a.exe desde la linea de comandos. Cada archivo tiene su propio main para las pruebas.
+
 ----Quicksort----
 El quicksort se comporta logaritmicamente en los casos en los que el pivote de casualidad es un numero cercano a la mediana del array. Esto claramente no pasa siempre. Estos casos logaritmicos son a la vez el mejor escenario al que se puede enfrentar el algoritmo.
 
