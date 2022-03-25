@@ -1,3 +1,5 @@
+//Hecho por Kenneth Palacios Molina. 2020035407
+
 #include <iostream>
 #include <ctime>
 using namespace std;
